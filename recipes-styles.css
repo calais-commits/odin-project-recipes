@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+*,
+::before,
+::after{
+    box-sizing: inherit;
+}
+
+:root{
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+    padding: 1rem;
+}
+
+p{
+    font-size: 16px;
+}
+
+.first-image-container img{
+    width: 55%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.main-content h2{
+    padding-bottom: 0.7rem;
+}
+
+.ingredients-instructions{
+    margin-top: 1rem;
+    margin-left: 0.1rem;
+    margin-bottom: 1rem;
+}
+
+.ingredients-instructions ul, ol{
+    margin-top: 0.58rem;
+    margin-left: 2.1rem;
+}
+
+.recipes-ingredients{
+    margin-bottom: 1rem;
+}
