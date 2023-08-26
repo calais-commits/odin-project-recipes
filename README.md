@@ -7,7 +7,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://comidita123.github.io/odin-project-recipes/)
+[Live Demo Link]()
 
 ### Prerequisites
 To make this repository working in your local machine you need only a browser.
